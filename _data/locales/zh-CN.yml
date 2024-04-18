@@ -11,7 +11,7 @@ layout:
 tabs:
   # format: <filename_without_extension>: <value>
   home: 首页
-  categories: 分类
+  papers: 论文
   conference: 会议
   about: 关于
 
