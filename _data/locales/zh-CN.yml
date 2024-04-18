@@ -12,8 +12,7 @@ tabs:
   # format: <filename_without_extension>: <value>
   home: 首页
   categories: 分类
-  tags: 标签
-  archives: 归档
+  conference: 会议
   about: 关于
 
 # the text displayed in the search bar & search results
