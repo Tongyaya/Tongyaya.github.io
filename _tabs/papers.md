@@ -1,5 +1,5 @@
 ---
 layout: page
-icon: fas fa-archive
+icon: fas fa-scroll
 order: 1
 ---
