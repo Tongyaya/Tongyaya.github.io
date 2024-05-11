@@ -3,7 +3,6 @@ layout: page
 icon: fas fa-archive
 order: 2
 ---
-## Academic Conferences
 - ICSA 2023 China Conference（成都）- 受邀报告 2023年6月
 - 第九届中国人民大学国际统计论坛（北京）- 受邀报告 2023年7月
 - 第六届中国北区统计与优化研讨会（丹东）- 受邀报告 2023年8月
