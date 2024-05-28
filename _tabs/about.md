@@ -4,7 +4,7 @@ icon: fas fa-home
 order: 0
 ---
 ## Education Background
-- Xiamen University September 2016 - uly 2020
+- Xiamen University September 2016 - July 2020
 Bachelor of Statistics  School of Economics
 
 - Peking University September 2020 - Present
