@@ -9,7 +9,6 @@ order: 1
 - **Xuetong Li**, Feifei Wang*, Wei Lan, and Hansheng Wang (2023). "Subnetwork Estimation for Spatial Autoregressive Models in Large-Scale Networks", _Electronic Journal of Statistics_, 17(1): 1768-1805. [[pdf]](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-17/issue-1/Subnetwork-estimation-for-spatial-autoregressive-models-in-large-scale-networks/10.1214/23-EJS2139.full)
 - **Xuetong Li**, Yuan Gao*, Hong Chang, Danyang Huang, Yingying Ma, Rui Pan, Haobo Qi, Feifei Wang, Shuyuan Wu, Ke Xu, Jing Zhou, Xuening Zhu, Yingqiu Zhu and Hansheng Wang (2024). "A Selective Review on Statistical Methods for Massive Data Computation: Distributed Computing, Subsampling, and Minibatch Techniques", _Statistical Theory and Related Fields_, accepted. [[pdf]](https://www.tandfonline.com/doi/full/10.1080/24754269.2024.2343151#)
 - **Xuetong Li**, Danyang Huang*, and Hansheng Wang. "Pairwise Maximum Likelihood for Multi-Class Logistic Regression Model with Multiple Rare Classes", working paper.
-- **Xuetong Li**, and Hansheng Wang. "Multiple Instance Learning for Multi-Label Data", manuscript.
 - Shuyuan Wu, Bin Du, **Xuetong Li***, and Hansheng Wang. "Network Expectation-Maximization Algorithm for Gaussian Mixture Model in Decentralized Federated Learning", working paper.
 - Hong Chang, **Xuetong Li***, and Hansheng Wang. "A Grouped Gaussian Mixture Model with a Large Number of Classes", manuscript.
 - **Xuetong Li**, Yuan Gao*, and Hansheng Wang. "Multiple Instance Learning with Multi-Labels", manuscript.
