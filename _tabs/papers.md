@@ -3,7 +3,7 @@ layout: page
 icon: fas fa-scroll
 order: 1
 ---
-- **Xuetong Li**, Jing Zhou*, and Hansheng Wang (2024). "Gaussian Mixture Models with Rare Events", _Journal of Machine Learning Research_, 25(252): 1-40. [[pdf]](http://www.jmlr.org/papers/v25/23-1245.html)
+- **Xuetong Li**, Jing Zhou*, and Hansheng Wang (2024). "Gaussian Mixture Models with Rare Events", _Journal of Machine Learning Research_, 25(252): 1-40. [[pdf]](https://www.jmlr.org/papers/v25/23-1245.html)
 - **Xuetong Li**, Danyang Huang*, and Hansheng Wang (2025). "Pairwise Maximum Likelihood for Multi-Class Logistic Regression Model with Multiple Rare Classes", In Proceedings of the International Conference on Machine Learning, To appear.  
 - **Xuetong Li**, Xuening Zhu*, and Hansheng Wang (2023). "Distributed Logistic Regression for Massive Data with Rare Events", _Statistica Sinica_, 34: 2277-2300. [[pdf]](https://arxiv.org/abs/2304.02269)
 - **Xuetong Li**, Feifei Wang*, Wei Lan, and Hansheng Wang (2023). "Subnetwork Estimation for Spatial Autoregressive Models in Large-Scale Networks", _Electronic Journal of Statistics_, 17(1): 1768-1805. [[pdf]](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-17/issue-1/Subnetwork-estimation-for-spatial-autoregressive-models-in-large-scale-networks/10.1214/23-EJS2139.full)
