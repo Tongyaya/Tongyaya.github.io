@@ -3,9 +3,14 @@ layout: page
 icon: fas fa-home
 order: 0
 ---
-## Background
+## About me
 
 I work in School of Statistics and Mathematics at Xi'an Jiaotong University. I obtained my Ph.D. in Economics (Statistics) from Guanghua School of Management, Peking University in 2025, under the supervision of Professor Hansheng Wang. I earned my Bachelor's Degree in Statistics from the School of Economics, Xiamen University in 2020.
+
+
+- **Research Fields** 
+
+Rare Events Data Analysis, Network Data Analysis, Distributed Computing 
 
 
 ## Teaching Assistant Experience        
